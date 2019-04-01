@@ -7,11 +7,11 @@
 						"Github":"sangyh",
 						"LinkedIn": "https://www.linkedin.com/in/sangyh/"},
 			"picture":"images/me.jpg",
-			"welcome":"Hello! Thanks for visiting my portfilio. I am currently wrapping up my PhD at Georgia Tech,\
+			"welcome":"Hello! Thanks for visiting my personal page. I am currently wrapping up my PhD at Georgia Tech,\
 			where I applied laboratory and computational techniques to understand the behavior of granular media \
 			under cyclic loading. I enjoy Data Science and Machine Learning, and extracting patterns out of data \
-			to help business decisions. In my free time, I enjoy reading about\
-			startups, learning about new technologies and running. I love coffee, chocolates and dogs. \<br>",
+			to help drive business decisions. In my free time, I enjoy reading about\
+			startups, learning about new technologies and running. I love coffee, chocolates and dogs. <br>",
 			"skills":["Programming Languages: Python, SQL, MATLAB, Javascript",
 					"Data Visualization: D3, Matplotlib, Paraview, Power BI",
 					"Software Suites: AutoCAD, ArcGIS, MS Office"]
