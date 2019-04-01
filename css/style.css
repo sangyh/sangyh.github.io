@@ -14,6 +14,12 @@ h6 {
   font-family: "Roboto", sans-serif;
 }
 
+.flex-item {
+  padding-left: 10px;
+  display: inline;
+  flex-wrap: all;
+}
+
 .clear-fix {
   overflow: auto;
 }
@@ -97,6 +103,10 @@ a {
   font-size: 18px;
   color: #f3f3f3;
   line-height: 28px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  padding: 10px;
 }
 
 #skills-h3 {
@@ -115,6 +125,10 @@ a {
 .white-text {
   font-weight: bold;
   color: #fff;
+}
+
+.white-text a {
+  display:inline; 
 }
 
 .gray {
